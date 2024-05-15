@@ -1,0 +1,4 @@
+Dockerfile
+.env
+docker-defs
+docker-compose.yml

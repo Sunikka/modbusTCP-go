@@ -1,0 +1,3 @@
+## ModbusTCP implementation in Go
+
+I had a school assignment to implement modbusTCP protocol in C++ a while ago, which gave me a hard time, even though I managed to pull it off eventually. Later I started to wonder how I would implement it in Go, so I started working on it. I am not really worrying about if what I'm doing is optimal or practical. I'm just doing this project out of curiosity. This is also a work in progress.
